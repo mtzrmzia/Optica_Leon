@@ -2,17 +2,6 @@
 
 Control de inventarios para una optica, que permite gestionar productos, ubicaciones, clientes, salidas, entradas, ajustes, movimientos.
 
-  - Permite:
-    * Gestionar toda la información de los productos así como generar e imprimir el código de barras del mismo.
-    * Gestionar las ubicaciones de almacenamiento de los productos.
-    * Gestionar todo el flujo de movimiento de los productos , ya sean:
-    * * Salidas
-    * * Entradas
-    * * Movimientos
-    * * Ajustes de almacen.
-    * Crear y administrar difrentes tipos de usuarios dentro del sistema.
-  - Y otras funcionalidades más.
-
 
 # Configuración
 ### Base de Datos
@@ -31,7 +20,19 @@ Control de inventarios para una optica, que permite gestionar productos, ubicaci
 # Screenshots
 
 
-
+Version 1.0
+----
+  - Permite:
+    * Gestionar toda la información de los productos así como generar e imprimir el código de barras del mismo.
+    * Gestionar las ubicaciones de almacenamiento de los productos.
+    * Gestionar todo el flujo de movimiento de los productos , ya sean:
+    * * Salidas
+    * * Entradas
+    * * Movimientos
+    * * Ajustes de almacen.
+    * Crear y administrar difrentes tipos de usuarios dentro del sistema.
+    * Crear y administrar clientes.
+    * Reportes de salidas, entradas, movimientos y ajustes por producto, ubicación y fecha.
 
 
 
@@ -40,3 +41,6 @@ Control de inventarios para una optica, que permite gestionar productos, ubicaci
 License
 ----
 MIT
+
+**Free Software, Hell Yeah!**
+
