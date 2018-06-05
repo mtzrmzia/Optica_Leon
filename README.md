@@ -19,6 +19,18 @@ Control de inventarios para una optica, que permite gestionar productos, ubicaci
 
 
 # Screenshots
+ ![login](screenshoots/login.png) 
+ 
+ ![login](screenshoots/inicio.png) 
+ 
+ ![login](screenshoots/entradas_lentes.png) 
+ 
+ ![login](screenshoots/guardar_lentes.png)
+  
+ ![login](screenshoots/inventario.png)
+ 
+ ![login](screenshoots/stock_ubicacion.png)
+
 
 
 Version 1.0
