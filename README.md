@@ -6,7 +6,7 @@ Control de inventarios para una optica, que permite gestionar productos, ubicaci
 # Configuración
 ### Base de Datos
   - Crear una base de datos en SQL Server con el nombre que quieras, en mi caso se llama `BD_OpticaLeon`
-  - Ejecutar el [script](DataBase/Tables_OpticaLeon.sql) y los [stored procedure](DataBase/StorageP_OpticaLeon.sq) completo en la base de datos recien creada.
+  - Ejecutar el [script](DataBase/Tables_OpticaLeon.sql) y los [stored procedure](DataBase/StorageP_OpticaLeon.sql) completo en la base de datos recien creada.
 
 ### Visual Studio
   - Abrir la Solucion del proyecto en Visual Studio
